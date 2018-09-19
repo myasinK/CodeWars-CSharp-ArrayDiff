@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\KataArrayDiff\KataArrayDiff\bin\Debug\KataArrayDiff.exe.config
+C:\Users\Yasin\source\repos\KataArrayDiff\KataArrayDiff\bin\Debug\KataArrayDiff.exe
+C:\Users\Yasin\source\repos\KataArrayDiff\KataArrayDiff\bin\Debug\KataArrayDiff.pdb
+C:\Users\Yasin\source\repos\KataArrayDiff\KataArrayDiff\obj\Debug\KataArrayDiff.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\KataArrayDiff\KataArrayDiff\obj\Debug\KataArrayDiff.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\KataArrayDiff\KataArrayDiff\obj\Debug\KataArrayDiff.exe
+C:\Users\Yasin\source\repos\KataArrayDiff\KataArrayDiff\obj\Debug\KataArrayDiff.pdb
